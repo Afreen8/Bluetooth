@@ -1,5 +1,5 @@
 <?php
-
+echo "Addition line added in information page";
 /**
  * @author Afreen
  * @copyright 2013
